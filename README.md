@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # climatheweatherapp
 
 A new Flutter application.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# desitini
+Check where your destini leads you too!
+>>>>>>> 497b874a589a5bfdb6c932d848ccb23f5588bc40
