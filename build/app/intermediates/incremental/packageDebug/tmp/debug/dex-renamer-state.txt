@@ -1,0 +1,4 @@
+#Wed Jul 29 14:19:35 IST 2020
+base.0=C\:\\Users\\dhairya\\AndroidStudioProjects\\clima_the_weather_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
